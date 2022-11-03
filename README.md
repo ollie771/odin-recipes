@@ -1,3 +1,4 @@
 # odin-recipes
 
-This is the first project for the Odin Foundations course using git and github
+This website consits of a main index page linking to a few recipes.
+Only html
